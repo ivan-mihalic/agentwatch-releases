@@ -1,8 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Agent Watch</title>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AgentWatch</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 18 Aug 2026 15:40:40 +0200</pubDate>
+            <link>https://github.com/ivan-mihalic/agentwatch-releases</link>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ivan-mihalic/agentwatch-releases/releases/download/v0.1.0/AgentWatch-0.1.0.zip" length="13238757" type="application/octet-stream" sparkle:edSignature="es0xK4DIOcksL+vRqmZlvO7aKg1PAOlIA/CZVedQmQnEuJK3glTYMXKXZL/Y5+c6I6jeBg8xOLkFQJLAKSW7Cw=="/>
+        </item>
+    </channel>
 </rss>
