@@ -3,14 +3,14 @@
     <channel>
         <title>AgentWatch</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Thu, 20 Aug 2026 15:26:04 +0200</pubDate>
+            <title>0.1.3</title>
+            <pubDate>Thu, 20 Aug 2026 15:59:50 +0200</pubDate>
             <link>https://github.com/ivan-mihalic/agentwatch-releases</link>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ivan-mihalic/agentwatch-releases/releases/download/v0.1.2/AgentWatch-0.1.2.zip" length="13318938" type="application/octet-stream" sparkle:edSignature="2m2CwDy1to8yOh7f2B/TziXaSQbbGurZPes+5vJBxhpfYPjLFUaAIGhfzjCFaWut8Dj15SqpMWfNBMylwnWOBg=="/>
+            <enclosure url="https://github.com/ivan-mihalic/agentwatch-releases/releases/download/v0.1.3/AgentWatch-0.1.3.zip" length="13320663" type="application/octet-stream" sparkle:edSignature="HxlnRCU140vw9kTBzuUKHklrv/5jC0YItwDlL4RqrrvDEO46GUoFXhOB878coEwe8Yc3iw2KWIK4uqCfLHboCw=="/>
         </item>
     </channel>
 </rss>
